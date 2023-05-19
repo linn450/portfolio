@@ -1,0 +1,5 @@
+add favicon
+add projects
+hover in css
+
+certificates?
